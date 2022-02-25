@@ -14,7 +14,7 @@
 ## My name is Alan and i am a full-stack developer! 
 
 
-- 🎓 I’m graduating in nalysis and Systems Development
+- 🎓 I’m graduating in Analysis and Systems Development
 - 💻 I'm currently learning and working on full-stack technologies
 - 🙏 I'm so thankful for where i got 
 - ⚡ What motivates me the most is the daily challenge
