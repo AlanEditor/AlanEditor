@@ -38,7 +38,7 @@
 
 <div style="border: 1px solid gray; width: 50%; margin-top: 20px"></div>
 
-## But I also have knowledge and practice in these one:
+## But I also have knowledge and practice in these ones:
 <div style="display: inline_block;">
    <img align="center" alt="Alan-CSHARP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
    <img align="center" alt="Alan-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
